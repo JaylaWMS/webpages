@@ -1,19 +1,23 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: [Jayla Williams]
+ *UnityID: [jmwill47]
+ *Date: [11/8/2025]
+ *Assignment: [Webpages Lab]
+ *Description: [Webpages Lab css]
  */
  
 p {
-    property: value;
+    font-family: 'Times New Roman', Times;
+    font-size: 16px;
+    color:black;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid black;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+
 }
